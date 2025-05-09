@@ -46,7 +46,7 @@ To run SV validation with default settings, you only need to provide:
 ### Run Example
 
 ```bash
-python run_validation.py \
+python ./SValidation/Valid_matrix.py \
   --bam_path /path/to/your.bam \
   --vcf_path /path/to/your.vcf \
   --ref_path /path/to/your.fasta \
